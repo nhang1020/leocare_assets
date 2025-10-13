@@ -1,0 +1,68 @@
+[
+  {
+    "id": 9,
+    "server_id": "benhvienchaudoc_his_v1",
+    "server_type": "leohis",
+    "server_name": "Bệnh Viện Đa Khoa Châu Đốc 1",
+    "server_fullname": "Bệnh Viện Đa Khoa Châu Đốc",
+    "public_ip": "http://benhvienchaudoc.vn:6868/leo/api/app",
+    "local_ip": "http://192.168.1.6:6868/leo/api/app",
+    "subfix_url": null,
+    "logo":
+        "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "location": null,
+    "website": "bvkvcd.com.vn",
+    "address": "Mạng nội bộ (192.168.1.6:6868)",
+    "code": null,
+    "banner":
+        "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "used": 1,
+    "show": 1,
+    "type": 1,
+    "public": 0,
+  },
+  {
+    "id": 9,
+    "server_id": "benhvienchaudoc_his_v2",
+    "server_type": "leohis",
+    "server_name": "Bệnh Viện Đa Khoa Châu Đốc 2",
+    "server_fullname": "Bệnh Viện Đa Khoa Châu Đốc",
+    "public_ip": "http://benhvienchaudoc.vn:6868/leo/api/app",
+    "local_ip": "http://192.168.1.58:6868/leo/api/app",
+    "subfix_url": null,
+    "logo":
+        "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "location": null,
+    "website": "bvkvcd.com.vn",
+    "address": "Mạng nội bộ (192.168.1.58:6868)",
+    "code": null,
+    "banner":
+        "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "used": 1,
+    "show": 1,
+    "type": 1,
+    "public": 0,
+  },
+  {
+    "id": 9,
+    "server_id": "benhvienchaudoc_his",
+    "server_type": "leohis",
+    "server_name": "Bệnh Viện Đa Khoa Châu Đốc",
+    "server_fullname": "Bệnh Viện Đa Khoa Châu Đốc",
+    "public_ip": "http://benhvienchaudoc.vn:6868/leo/api/app",
+    "local_ip": "http://192.168.1.6:6868/leo/api/app",
+    "subfix_url": null,
+    "logo":
+        "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "location": null,
+    "website": "bvkvcd.com.vn",
+    "address": "Mạng ngoài (benhvienchaudoc.vn:6868)",
+    "code": null,
+    "banner":
+        "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "used": 1,
+    "show": 1,
+    "type": 1,
+    "public": 1,
+  }
+]
